@@ -1,0 +1,12 @@
+data_flowers/
+onnx/
+openvino/
+
+outputs/model.pt
+outputs_FT/model.pt
+
+
+Dockerfile
+tarball.tar.gz
+requirements.txt
+config.py
