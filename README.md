@@ -1,0 +1,1 @@
+This repo contains the the notebooks and source codes used in Educative: Image Classification and Object Detection using PyTorch class, created by me. The link to the online class will be shared when its published and ready to go.
